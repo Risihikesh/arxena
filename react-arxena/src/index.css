@@ -1,0 +1,149 @@
+p {
+  margin-bottom: 0 !important;
+}
+
+.myBtn {
+  width: 150px;
+  font-weight: 500;
+  font-size: 14pt;
+  border-radius: 25px;
+  padding: 10px 0;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+}
+
+.border-primary {
+  border: 1px solid rgb(36, 116, 204);
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.mainContainer .logo {
+  height: 78px;
+  margin-bottom: 40px;
+  margin-left: 30%;
+}
+
+.mainContainer .gpt {
+  height: 25px;
+  margin-top: 63px;
+  margin-left: 30%;
+}
+
+.inputContainer {
+  position: relative;
+}
+
+.inputContainer input {
+  width: 450px;
+  padding: 0 30px 0 30px;
+  height: 3rem;
+  font-size: 10pt;
+  border-radius: 25px;
+  border: 1px solid rgb(199, 199, 199);
+  background-color: rgb(247, 247, 251);
+}
+
+.inputContainer img {
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  right: 6%;
+  top: 20%;
+  cursor: pointer;
+}
+
+.imgAndInput {
+  position: relative;
+  height: 75vh;
+}
+
+.centerDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* footer section */
+.myFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social img {
+  height: 43px;
+  width: 43px;
+}
+
+.links div span {
+  margin: 0 10px 0 10px;
+}
+
+.links div a {
+  font-size: 10pt;
+  text-decoration: none;
+}
+
+/* sign up page */
+.sLogo {
+  height: 52px;
+}
+
+.inputCard {
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+  padding: 30px;
+  max-width: 440px;
+  margin: 0 auto;
+}
+
+.inputCard select {
+  color: #495057;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.formTxt {
+  font-size: 16pt;
+  font-weight: 300;
+}
+
+.bottomText {
+  color: rgb(197, 197, 205);
+}
+
+.leftBg {
+  background-color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' %3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='1'%3E%3Cstop offset='0' stop-color='%23ffffff'/%3E%3Cstop offset='1' stop-color='%23a8c4ff'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpattern id='b' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Ccircle fill='%23ffffff' cx='10' cy='10' r='10'/%3E%3C/pattern%3E%3Crect width='100%25' height='100%25' fill='url(%23a)'/%3E%3Crect width='100%25' height='100%25' fill='url(%23b)' fill-opacity='0.1'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.profile{
+  display: block;
+  margin: 0 auto;
+}
+.quote img{
+  display: block;
+  height: 30px;
+}
+.quote p span{
+  font-weight: bold;
+}
+.quote1{
+  display: block;
+  margin-left: auto;
+  margin-top: 16px;
+}
+.h-screen{
+  height: 100vh;
+}
+.customLink{
+  text-decoration: none;
+  color: rgb(197, 197, 205);
+}
+
+
